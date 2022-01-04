@@ -1,0 +1,108 @@
+body{
+  height:5200px;
+  background-image: url("case-study-img-2.png");
+  background-size:1440px;
+  border-style:solid;
+  border-width:5px;
+border-radius:20px;
+border-color:black;
+  
+}
+
+
+
+
+h1{
+  color:white;
+  font-weight:bold;
+  font-family:fantasy;
+
+  position:fixed;
+  background-color:black;
+  text-align:center;
+  top:0px;
+  width:100%;
+  border-top-left-radius:200px;
+  border-top-right-radius:200px;
+  
+
+
+  
+
+}
+
+label{
+  color:white;
+  font-weight:bold;
+  font-family:monospace;
+  font-size:25px;
+  
+
+}
+
+
+.copy_right_footer{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  text-align:center;
+  background-color:rgb(170, 169, 169);
+  line-height: 3;
+  color:black;
+  font-family:cursive;
+  font-size:18px;
+  border-top-left-radius:200px;
+  border-top-right-radius:200px;
+  border-style:solid;
+  border-width:0.5px;
+  border-color:black;
+}
+
+#img{
+  height:300px;
+  width:500px;
+  border-color: black;
+  border-style:solid;
+  border-width:0.5px;
+  border-radius:100px;
+  
+}
+
+#main{
+  background-color:black !important;
+
+  height:700px;
+  border-style:solid;
+  border-width:5px;
+ border-top-right-radius: 300px;
+ border-top-left-radius: 300px;
+ border-style:dotted;
+ border-width:2px;
+ border-color:white;
+ 
+  
+}
+
+#vs{
+  width:max-content;
+  
+}
+#arrow{
+  width: 100px;
+  height:100px;
+  border-radius:360px;
+}
+
+
+#image_div{
+  height:500px;
+  width:500px;
+  background-color:cadetblue;
+  margin-right:10px;
+}
+
+#image{
+  width:500px;
+  height:500px;
+  border-radius: 50px;
+}
